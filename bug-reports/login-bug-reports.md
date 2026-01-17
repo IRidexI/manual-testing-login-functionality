@@ -23,6 +23,7 @@ User is logged in and redirected to the secure area.
 
 ### BG-02: System prevents login with valid credentials
 **Severity:** Critical
+
 **Environment:** Windows 10, Chrome 126.0
 
 **Steps to Reproduce:**
