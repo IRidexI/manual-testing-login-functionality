@@ -4,6 +4,7 @@
 
 ### BG-01: System allows login with invalid password
 **Severity:** Critical
+
 **Environment:** Windows 10, Chrome 126.0
 
 **Steps to Reproduce:**
